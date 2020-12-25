@@ -16,7 +16,9 @@ Colab 에서 폴더에
 을 넣고 실행
 
 <참고자료>
+
 http://aidev.co.kr/chatbotdeeplearning/8709
+https://github.com/jiwonny/nlp_emotion_classification
 https://github.com/monologg/KoELECTRA
 https://github.com/monologg/KoCharELECTRA
 https://github.com/hobbang23/lecture
